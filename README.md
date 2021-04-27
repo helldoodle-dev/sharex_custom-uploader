@@ -1,6 +1,7 @@
 <h1 align="center">ShareX Custom Uploader</h1>
 
 <p align="center">
+<img scr="https://img.shields.io/packagist/php-v/helldoodle-dev/sharex_custom-uploader" >
 
 <img src="https://img.shields.io/badge/made%20by-helldoodle-blue.svg" >
 
