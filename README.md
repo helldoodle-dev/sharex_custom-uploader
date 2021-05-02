@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/github/issues/helldoodle-dev/sharex_custom-uploader.svg">
 </p>
 
-_Загрузка изображений на ваш хост/сервер c помощью **[ShareX](https://baremetrics.com)**!_
+_Загрузка изображений на ваш хост/сервер c помощью **[ShareX](https://getsharex.com)**!_
 
 ---
